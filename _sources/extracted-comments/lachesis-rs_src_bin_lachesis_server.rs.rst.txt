@@ -1,3 +1,10 @@
 **********************************************************************************************************************************************************************************
-`lachesis-rs/src/bin/lachesis_server.rs <https://github.com/Fantom-Foundation/lachesis-rs/blob/d45634eacfd5f95752e0bfb1a4bd343ea9cd7c60/lachesis-rs/src/bin/lachesis_server.rs>`_
+`lachesis-rs/src/bin/lachesis_server.rs <https://github.com/Fantom-Foundation/lachesis-rs/blob/b3d2905707e9ea6c2c44a56af0933012eecf8c4f/lachesis-rs/src/bin/lachesis_server.rs>`_
 **********************************************************************************************************************************************************************************
+
+
+.. function:: fn main() [line: 6]
+
+	| Main lachesis-rs entrypoint. Starts HTTP server.
+
+`View source at line: 6 <https://github.com/Fantom-Foundation/lachesis-rs/blob/b3d2905707e9ea6c2c44a56af0933012eecf8c4f/lachesis-rs/src/bin/lachesis_server.rs#L6>`_
