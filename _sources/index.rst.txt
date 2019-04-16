@@ -8,8 +8,8 @@
 Welcome to Lachesis-rs's documentation!
 =======================================
 
-JLachesis
-------
+Lachesis-rs
+-----------
 
 .. toctree::
    :maxdepth: 2
